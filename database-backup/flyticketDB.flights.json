@@ -1,0 +1,286 @@
+[{
+  "_id": {
+    "$oid": "6a023b0b666359a1ff3db317"
+  },
+  "flight_id": "MSKU003",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472624"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed747261d"
+  },
+  "departure_time": {
+    "$date": "2026-05-12T20:25:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-12T21:25:00.000Z"
+  },
+  "business_price": 1000,
+  "economy_price": 1500,
+  "business_seats_available": 20,
+  "economy_seats_available": 129,
+  "plane": {
+    "$oid": "6a0239858857196b81afa507"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a023c8b96454aa031e4ccb5"
+  },
+  "flight_id": "MSKU004",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed747260f"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472611"
+  },
+  "departure_time": {
+    "$date": "2026-05-12T20:31:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-12T21:31:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 400,
+  "business_seats_available": 30,
+  "economy_seats_available": 149,
+  "plane": {
+    "$oid": "6a0239858857196b81afa4ff"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a023cb696454aa031e4ccb6"
+  },
+  "flight_id": "MSKU005",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472611"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed747260f"
+  },
+  "departure_time": {
+    "$date": "2026-05-14T20:32:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-14T21:32:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 400,
+  "business_seats_available": 30,
+  "economy_seats_available": 150,
+  "plane": {
+    "$oid": "6a0239858857196b81afa4ff"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a023d7c96454aa031e4ccb7"
+  },
+  "flight_id": "MSKU006",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed747261c"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472658"
+  },
+  "departure_time": {
+    "$date": "2026-05-14T20:36:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-14T21:36:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 400,
+  "business_seats_available": 20,
+  "economy_seats_available": 130,
+  "plane": {
+    "$oid": "6a0239858857196b81afa50a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a023da896454aa031e4ccb8"
+  },
+  "flight_id": "MSKU007",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472658"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed747261c"
+  },
+  "departure_time": {
+    "$date": "2026-05-14T23:32:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-15T00:36:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 400,
+  "business_seats_available": 20,
+  "economy_seats_available": 130,
+  "plane": {
+    "$oid": "6a0239858857196b81afa50a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02508096454aa031e4ccb9"
+  },
+  "flight_id": "MSKU008",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed747261c"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed747263b"
+  },
+  "departure_time": {
+    "$date": "2026-05-15T02:32:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-15T03:37:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 1,
+  "business_seats_available": 20,
+  "economy_seats_available": 130,
+  "plane": {
+    "$oid": "6a0239858857196b81afa50a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a079d0e34d5a5121b8fb725"
+  },
+  "flight_id": "MSKU001",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472614"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed747261a"
+  },
+  "departure_time": {
+    "$date": "2026-05-15T22:25:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-16T02:23:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 1500,
+  "business_seats_available": 60,
+  "economy_seats_available": 240,
+  "plane": {
+    "$oid": "6a0239858857196b81afa50b"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a079df4eabf32537dd09ed7"
+  },
+  "flight_id": "MSKU019",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472611"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472623"
+  },
+  "departure_time": {
+    "$date": "2026-05-15T22:29:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-15T23:31:00.000Z"
+  },
+  "business_price": 4000,
+  "economy_price": 1000,
+  "business_seats_available": 60,
+  "economy_seats_available": 240,
+  "plane": {
+    "$oid": "6a0239858857196b81afa50d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0888b85c36a18546973438"
+  },
+  "flight_id": "MSKU124",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed747260e"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472613"
+  },
+  "departure_time": {
+    "$date": "2026-05-17T15:09:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-17T16:11:00.000Z"
+  },
+  "business_price": 4000,
+  "economy_price": 3000,
+  "business_seats_available": 48,
+  "economy_seats_available": 297,
+  "plane": {
+    "$oid": "6a0239858857196b81afa504"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a08b01c87bc2a4ad0f5648d"
+  },
+  "flight_id": "MSKU002",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472651"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472617"
+  },
+  "departure_time": {
+    "$date": "2026-05-16T17:58:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-16T18:58:00.000Z"
+  },
+  "business_price": 21000,
+  "economy_price": 21,
+  "business_seats_available": 50,
+  "economy_seats_available": 300,
+  "plane": {
+    "$oid": "6a0239858857196b81afa503"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a08b76e2e85e9d62f8eecec"
+  },
+  "flight_id": "MSKU190",
+  "from_city": {
+    "$oid": "69faf888716bbe3ed7472614"
+  },
+  "to_city": {
+    "$oid": "69faf888716bbe3ed7472613"
+  },
+  "departure_time": {
+    "$date": "2026-05-23T18:30:00.000Z"
+  },
+  "arrival_time": {
+    "$date": "2026-05-23T20:30:00.000Z"
+  },
+  "business_price": 5000,
+  "economy_price": 1905,
+  "business_seats_available": 20,
+  "economy_seats_available": 129,
+  "plane": {
+    "$oid": "6a0239858857196b81afa506"
+  },
+  "__v": 0
+}]

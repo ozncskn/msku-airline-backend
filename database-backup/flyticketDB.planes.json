@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "6a0239858857196b81afa4fc"
+  },
+  "plane_id": "MSKU-B01",
+  "model": "Boeing 737",
+  "business_capacity": 30,
+  "economy_capacity": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa4fd"
+  },
+  "plane_id": "MSKU-B02",
+  "model": "Boeing 737",
+  "business_capacity": 30,
+  "economy_capacity": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa4fe"
+  },
+  "plane_id": "MSKU-B03",
+  "model": "Boeing 737",
+  "business_capacity": 30,
+  "economy_capacity": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa4ff"
+  },
+  "plane_id": "MSKU-B04",
+  "model": "Boeing 737",
+  "business_capacity": 30,
+  "economy_capacity": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa500"
+  },
+  "plane_id": "MSKU-B05",
+  "model": "Boeing 737",
+  "business_capacity": 30,
+  "economy_capacity": 150,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa501"
+  },
+  "plane_id": "MSKU-T01",
+  "model": "Boeing 777",
+  "business_capacity": 50,
+  "economy_capacity": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa502"
+  },
+  "plane_id": "MSKU-T02",
+  "model": "Boeing 777",
+  "business_capacity": 50,
+  "economy_capacity": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa503"
+  },
+  "plane_id": "MSKU-T03",
+  "model": "Boeing 777",
+  "business_capacity": 50,
+  "economy_capacity": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa504"
+  },
+  "plane_id": "MSKU-T04",
+  "model": "Boeing 777",
+  "business_capacity": 50,
+  "economy_capacity": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa505"
+  },
+  "plane_id": "MSKU-T05",
+  "model": "Boeing 777",
+  "business_capacity": 50,
+  "economy_capacity": 300,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa506"
+  },
+  "plane_id": "MSKU-A01",
+  "model": "Airbus A320",
+  "business_capacity": 20,
+  "economy_capacity": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa507"
+  },
+  "plane_id": "MSKU-A02",
+  "model": "Airbus A320",
+  "business_capacity": 20,
+  "economy_capacity": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa508"
+  },
+  "plane_id": "MSKU-A03",
+  "model": "Airbus A320",
+  "business_capacity": 20,
+  "economy_capacity": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa509"
+  },
+  "plane_id": "MSKU-A04",
+  "model": "Airbus A320",
+  "business_capacity": 20,
+  "economy_capacity": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50a"
+  },
+  "plane_id": "MSKU-A05",
+  "model": "Airbus A320",
+  "business_capacity": 20,
+  "economy_capacity": 130,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50b"
+  },
+  "plane_id": "MSKU-S01",
+  "model": "Airbus A350",
+  "business_capacity": 60,
+  "economy_capacity": 240,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50c"
+  },
+  "plane_id": "MSKU-S02",
+  "model": "Airbus A350",
+  "business_capacity": 60,
+  "economy_capacity": 240,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50d"
+  },
+  "plane_id": "MSKU-S03",
+  "model": "Airbus A350",
+  "business_capacity": 60,
+  "economy_capacity": 240,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50e"
+  },
+  "plane_id": "MSKU-S04",
+  "model": "Airbus A350",
+  "business_capacity": 60,
+  "economy_capacity": 240,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0239858857196b81afa50f"
+  },
+  "plane_id": "MSKU-S05",
+  "model": "Airbus A350",
+  "business_capacity": 60,
+  "economy_capacity": 240,
+  "__v": 0
+}]
